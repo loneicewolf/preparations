@@ -14,6 +14,9 @@
 
 ## TOC
 (Table Of Contents)
+
+## ---by topic---
+
 1. a
 2. b
 3. c
@@ -49,7 +52,11 @@
 
 ---
 
-### 'Collections'
+### Collections
+
+# InfoSec
+
+## books
 - [ ] Assuring Security by Penetration Testing.
 - [ ] 
 
