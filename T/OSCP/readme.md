@@ -28,17 +28,17 @@
 ## Conclusion
 
 
-# Wrap up
+## Wrap up
 
-# References & Sources
+## References & Sources
 
-# Bibliography
+## Bibliography
 - 1
 - 2
 - 3
 
 
-# Sites
+## Sites
 - 1
 - 2
 - 3
