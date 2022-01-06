@@ -45,7 +45,7 @@ various preparations for various topics
 ---
 
 ### 'Collections'
-- [ ] Assuring Security by Penetration Testing.
+- [ ] 
 - [ ] 
 
 - [ ] 
