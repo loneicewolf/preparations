@@ -1,9 +1,14 @@
+## msg to myself: Ignore grammar/design for now!
+
+
 # preparations
 
 ---
 
 **abstract**
-various preparations for various topics
+- various preparations for various topics
+
+
 
 ---
 
@@ -45,7 +50,7 @@ various preparations for various topics
 ---
 
 ### 'Collections'
-- [ ] 
+- [ ] Assuring Security by Penetration Testing.
 - [ ] 
 
 - [ ] 
